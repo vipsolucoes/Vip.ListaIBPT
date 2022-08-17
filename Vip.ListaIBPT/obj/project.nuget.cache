@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ulLz9NemrJ2aM/CXd2CksIpR2YPYYm63lGQBiEL39ecqpkp44bDUuc2exIX0/LsKuCh2lh4Pm6ONyiVQlUau6g==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\Vip.ListaIBPT\\Vip.ListaIBPT\\Vip.ListaIBPT.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\Leandro\\.nuget\\packages\\filehelpers\\3.5.1\\filehelpers.3.5.1.nupkg.sha512",
+    "D:\\Users\\Leandro\\.nuget\\packages\\vip.extensions\\1.0.22\\vip.extensions.1.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
